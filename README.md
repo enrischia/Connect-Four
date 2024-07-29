@@ -8,7 +8,7 @@ The project is documented in detail in the provided PDF dissertation and execute
 
 ## Contents
 
-- **[Connect-four.ipynb](Connect-four.ipynb)**: Google Colab notebook containing the code for simulating Connect Four with neural networks.
+- **[[Connect-four.ipynb](Connect-four.ipynb)](https://github.com/enrischia/Connect-Four/blob/main/Connect_Four.ipynb)**: Google Colab notebook containing the code for simulating Connect Four with neural networks.
 - **[connect_four.pdf](connect_four.pdf)**: Dissertation detailing the research and findings of this project.
 
 ## Abstract
