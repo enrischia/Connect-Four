@@ -9,7 +9,7 @@ The project is documented in detail in the provided PDF dissertation and execute
 ## Contents
 
 - **[Connect-four.ipynb](https://github.com/enrischia/Connect-Four/blob/main/Connect_Four.ipynb)**: Google Colab notebook containing the code for simulating Connect Four with neural networks.
-- **[connect_four.pdf](connect_four.pdf)**: Dissertation detailing the research and findings of this project.
+- **[connect_four.pdf](https://github.com/enrischia/Connect-Four/blob/main/Connect%20four.pdf)**: Dissertation detailing the research and findings of this project.
 
 ## Abstract
 
@@ -39,12 +39,12 @@ To run the code in the notebook, ensure you have:
 
 ### Running the Notebook
 
-1. Open [Connect-four.ipynb](Connect-four.ipynb) in Google Colab or Jupyter Notebook.
+1. Open [Connect-four.ipynb](https://github.com/enrischia/Connect-Four/blob/main/Connect_Four.ipynb) in Google Colab or Jupyter Notebook.
 2. Follow the instructions within the notebook to execute the code cells and explore the results.
 
 ### Viewing the Dissertation
 
-- Download and review [connect_four.pdf](connect_four.pdf) for a comprehensive understanding of the project's methodology, results, and analysis.
+- Download and review [connect_four.pdf](https://github.com/enrischia/Connect-Four/blob/main/Connect%20four.pdf) for a comprehensive understanding of the project's methodology, results, and analysis.
 
 ## Results and Discussion
 
